@@ -1,0 +1,1 @@
+typeSearchIndex = [{"p":"main","l":"BinaryObserver"},{"p":"main","l":"DescriptionObserver"},{"p":"main","l":"HexaObserver"},{"p":"main","l":"Observer"},{"p":"main","l":"ObserverPatternDemo"},{"p":"main","l":"OctalObserver"},{"p":"main","l":"Subject"}]
